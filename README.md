@@ -2,4 +2,4 @@
 
 https://JimFawcett.github.io/RustModels.html
 
-Experiments with Rust models
+Demonstration code for RustModels videos
